@@ -1,9 +1,9 @@
 import React from 'react';
 import styles from './Dashboard.module.css';
 import ImageWithTextContainer from '../ImageWithTextContainer/ImageWithTextContainer';
-import enviornment from '../../assets/images/envior.png';
-import mission from '../../assets/images/kkkk.png';
-import imgg from '../../assets/images/0.jpg';
+import enviornment from '../../assets/images/envior.jpeg';
+import mission from '../../assets/images/kkkkkkk.jpeg';
+import imgg from '../../assets/images/kkkkkl.jpeg';
 import Header from '../Header/Header';
 import { useNavigate } from 'react-router-dom';
 // import ImageWrapper from './ImageWrapper';
@@ -13,19 +13,19 @@ const Dashboard: React.FC = () => {
         {
             image: imgg,
             heading: "Company Overview",
-            text: "MGLS Mining Compnay Private Limited, we are dedicated to the responsible exploration and extraction of the Earth's valuable resources. With a legacy dating back decades, our company has been a stalwart in the mining industry, contributing to global development while prioritizing sustainability and environmental stewardship.",
+            text: "MGLS Mining Company Private Limited is committed to responsible resource extraction, with decades of experience in global mining. Sustainability and environmental stewardship remain central to our mission.",
             link: "/mgls_mining_company/about/"
         },
         {
             image: mission,
             heading: "Our Mission",
-            text: "Our mission is to be a leader in the mining industry, known for our commitment to safety, environmental responsibility, and the well-being of the communities where we operate. We strive to deliver the highest quality minerals and metals to meet the world's growing demands.",
+            text: "Our mission is mining industry leadership with a focus on safety, environmental responsibility, and community well-being. We provide high-quality minerals and metals for global needs.",
             link: "/mgls_mining_company/about/"
         },
         {
             image: enviornment,
             heading: "CSR Activity",
-            text: "We are dedicated to the responsible exploration and extraction of the Earth's valuable resources. With a legacy dating back decades, our company has been a stalwart in the mining industry, contributing to global development while prioritizing sustainability and environmental stewardship.",
+            text: "We're committed to responsible resource exploration and extraction with a decades-long legacy. Our steadfast presence in mining contributes to global development while emphasizing sustainability and environmental stewardship.",
             link: "/mgls_mining_company/csr-activity/"
         },
 
@@ -51,11 +51,7 @@ const Dashboard: React.FC = () => {
                 </div>
                 <div className={styles.inner_text}>
                     <b>MGLS Mining Compnay Private Limited</b>,
-                    we are dedicated to the responsible exploration and extraction
-                    of the Earth's valuable resources. With a legacy dating back decades,
-                    our company has been a stalwart in the mining industry, contributing to
-                    global development while prioritizing sustainability and environmental
-                    stewardship. <span
+                    we are unwavering in our commitment to the conscientious exploration and extraction of Earth's invaluable resources. With a heritage spanning decades, our company has stood as a stalwart in the mining industry, making significant contributions to global development. We prioritize sustainability and environmental stewardship, ensuring that our operations meet the world's resource demands responsibly. Our legacy is built on a foundation of respect for the environment and the well-being of the communities where we operate. We continue to forge a path of responsible mining, reflecting our dedication to a balanced and sustainable approach in the industry. <span
                         className={styles.read_more}
                         onClick={() => {
                             navigate("/mgls_mining_company/about");

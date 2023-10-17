@@ -2,7 +2,7 @@
 import React from 'react'
 import styles from './CSRActivity.module.css'
 import Header from '../Header/Header'
-import enviornment from "../../../src/assets/images/envior.png"
+import enviornment from "../../../src/assets/images/envior.jpeg"
 
 const CSRActivity = () => {
     return (

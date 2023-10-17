@@ -36,7 +36,7 @@
 .main_text {
     text-transform: uppercase;
     font-weight: 800px;
-    color: #345E40;
+    color: #bb271b;
     line-height: 1.5;
 
 }
@@ -44,7 +44,7 @@
 .get_in_touch {
     font-size: 22px;
     font-weight: 700;
-    color: #345E40;
+    color: #bb271b;
     line-height: 1.5;
     font-family: Inter;
 }
@@ -87,7 +87,7 @@
 }
 
 .input_feild {
-    border: 1px solid #345E40;
+    border: 1px solid #bb271b;
     width: 200px;
     padding: 10px;
 }
@@ -95,13 +95,13 @@
 
 
 .input_feild_two {
-    border: 1px solid #345E40;
+    border: 1px solid #bb271b;
     width: 342px;
     padding: 60px;
 }
 
 .button_style {
-    background-color: #345E40;
+    background-color: #bb271b;
     color: white;
     padding: 10px 20px;
     border-radius: 5px;
