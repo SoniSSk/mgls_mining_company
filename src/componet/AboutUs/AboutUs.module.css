@@ -1,0 +1,91 @@
+.text {
+    color: #2D2D2D;
+    /* text-align: center; */
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+    line-height: 1.5;
+    justify-content: center;
+    display: flex;
+}
+
+.conatainer {
+    padding: 35px 0px;
+    font-family: Inter;
+    font-size: 16.5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    width: 580px;
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.main_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding: 50px 100px;
+    line-height: 1.5;
+}
+
+.main_text {
+    text-transform: uppercase;
+    font-weight: 800px;
+    color: #345E40;
+    line-height: 1.5;
+    padding: 10px 0px;
+    font-size: 30px
+}
+
+.main_texts {
+    text-transform: uppercase;
+    font-weight: 800px;
+    color: #345E40;
+    line-height: 1.5;
+    padding: 10px 0px;
+}
+
+
+.image {
+    width: 400px;
+    height: 400px;
+    margin-top: 75px;
+
+    border-radius: 5%;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.aaaa {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 65%;
+}
+
+.bbbb {
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+
+.container_aaaa {
+    padding-top: 10px;
+    display: flex;
+}
+
+.jj {
+    background-image: url(../../assets/images/asdfghj.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+
+}

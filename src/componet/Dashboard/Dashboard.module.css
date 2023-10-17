@@ -1,0 +1,98 @@
+.jj {
+    background-image: url(../../assets/images/asdfghj.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 80vh;
+
+}
+
+.goal_container {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    text-transform: uppercase;
+
+}
+
+.container {
+    opacity: 0.4;
+    background: url(), lightgray 50% / cover no-repeat;
+    mix-blend-mode: multiply;
+}
+
+
+.text_container {
+    padding: 100px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.ttext {
+    color: #2D2D2D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.inner_text {
+    color: #555;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    /* 187.5% */
+    padding-top: 20px;
+    text-align: justify;
+    width: 50%;
+}
+
+.image_ii {
+    width: 100%;
+    height: 80vh;
+    object-fit: cover;
+}
+
+.colo {
+
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    background: rgb(244, 247, 244);
+}
+
+.banner_text {
+    font-size: 50px;
+    color: white;
+    font-family: Inter;
+    text-align: center;
+    font-weight: 700;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 140px 0px;
+}
+
+.read_more {
+    color: blue;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    font-family: Inter;
+    cursor: pointer;
+}

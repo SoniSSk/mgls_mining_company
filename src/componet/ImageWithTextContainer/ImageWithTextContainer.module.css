@@ -1,0 +1,48 @@
+.contaoner {
+    width: 400px;
+    height: 550px;
+    flex-shrink: 0;
+    border: 1px solid #345E40;
+    border-radius: 10px;
+}
+
+.img_st {
+    width: 400px;
+    height: 291.461px;
+    flex-shrink: 0;
+    border-radius: 9px 9px 0px 0px;
+}
+
+.text_he {
+
+    flex-shrink: 0;
+    color: #000;
+    font-family: Gilroy;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    padding: 20px 0 0 0;
+}
+
+.text_cont {
+    padding: 10px 20px;
+    color: #626262;
+    font-family: Gilroy;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: justify;
+}
+
+
+.read_more {
+    color: blue;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 1.5;
+    font-family: Inter;
+    cursor: pointer;
+}
