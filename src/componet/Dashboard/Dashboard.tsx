@@ -13,7 +13,7 @@ const Dashboard: React.FC = () => {
         {
             image: imgg,
             heading: "Company Overview",
-            text: "MGLS Mining Company Private Limited is committed to responsible resource extraction, with decades of experience in global mining. Sustainability and environmental stewardship remain central to our mission.",
+            text: "M/S MGLS Mining Company is committed to responsible resource extraction, with decades of experience in global mining. Sustainability and environmental stewardship remain central to our mission.",
             link: "/mgls_mining_company/about/"
         },
         {
@@ -42,7 +42,7 @@ const Dashboard: React.FC = () => {
                 <div
                     className={styles.banner_text}
                 >
-                    <div style={{ width: "500px " }}>MGLS Mining Compnay Private Limited</div>
+                    <div style={{ width: "500px " }}>M/S MGLS Mining Compnay </div>
                 </div>
             </div>
             <div className={styles.text_container}>
@@ -50,7 +50,7 @@ const Dashboard: React.FC = () => {
                     Who We Are ?
                 </div>
                 <div className={styles.inner_text}>
-                    <b>MGLS Mining Compnay Private Limited</b>,
+                    <b>M/S MGLS Mining Compnay </b>,
                     we are unwavering in our commitment to the conscientious exploration and extraction of Earth's invaluable resources. With a heritage spanning decades, our company has stood as a stalwart in the mining industry, making significant contributions to global development. We prioritize sustainability and environmental stewardship, ensuring that our operations meet the world's resource demands responsibly. Our legacy is built on a foundation of respect for the environment and the well-being of the communities where we operate. We continue to forge a path of responsible mining, reflecting our dedication to a balanced and sustainable approach in the industry. <span
                         className={styles.read_more}
                         onClick={() => {

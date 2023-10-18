@@ -15,7 +15,7 @@ const Footer = () => {
     return (
         <div className={styles.main}>
             <div className={styles.section1}>
-                <div className={styles.company_name}>MGLS Mining Compnay Private Limited</div>
+                <div className={styles.company_name}>M/S MGLS Mining Compnay </div>
                 <div className={styles.text}>
                     mglsmc2001@gmail.com
                 </div>

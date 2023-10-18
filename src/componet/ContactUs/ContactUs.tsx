@@ -20,7 +20,7 @@ const ContactUs = () => {
                                 styles.get_in_touch
                             }>
 
-                            MGLS Mining Compnay Private Limited
+                            M/S MGLS Mining Compnay
                         </div>
 
                         <div>
