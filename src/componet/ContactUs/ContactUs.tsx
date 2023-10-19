@@ -24,7 +24,7 @@ const ContactUs = () => {
                         </div>
 
                         <div>
-                            Address:- <span className={styles.s}> BH-94 Deen Dayal Nagar, Gwalior (M.P.) Pin-474001</span>
+                            <span className={styles.s}> BH-94 Deen Dayal Nagar, Gwalior (M.P.) Pin-474001</span>
 
                         </div>
                         <div>
