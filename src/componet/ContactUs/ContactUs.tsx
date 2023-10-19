@@ -24,10 +24,7 @@ const ContactUs = () => {
                         </div>
 
                         <div>
-                            Address:- <span className={styles.s}> 3/58 Moti Nagar, New Delhi Pin-110015</span>
-                        </div>
-                        <div>
-                            Branch office:- <span className={styles.s}> BH-94 Deen Dayal Nagar, Gwalior (M.P.) Pin-474001</span>
+                            Address:- <span className={styles.s}> BH-94 Deen Dayal Nagar, Gwalior (M.P.) Pin-474001</span>
 
                         </div>
                         <div>
