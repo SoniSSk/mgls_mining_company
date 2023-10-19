@@ -22,7 +22,7 @@ const CSRActivity = () => {
                     }}>
                         <div style={{ width: '50%', textAlign: 'justify', padding: "50px 0px" }}>
                             Environment
-                            We at M/S MGLS Mining Compnay, we take minimum disturbance to environment as a key responsibility. To ensure this happen we bring into force serval environments activities into our Job schedules.
+                            We at MGLS Mining Compnay, we take minimum disturbance to environment as a key responsibility. To ensure this happen we bring into force serval environments activities into our Job schedules.
 
                             Efficient energy usage, Waste management, and reduction of green house gases in our working process are some in the things that we consider in making our policies.
 

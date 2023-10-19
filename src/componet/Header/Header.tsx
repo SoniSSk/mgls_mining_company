@@ -21,7 +21,7 @@ const Header = () => {
                 onClick={() => {
                     navigate("/mgls_mining_company")
                 }}
-                className={styles.gomti}>M/S MGLS <span className={styles.infra}>  Mining Compnay  </span> </div>
+                className={styles.gomti}> MGLS <span className={styles.infra}>  Mining Compnay  </span> </div>
             <div className={styles.option_container}>
                 {headerOptions.map((option, index) => (
                     <div key={index}>
